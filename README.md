@@ -30,3 +30,13 @@ Implements: [TOMP Model](https://github.com/tomphttp/specifications/blob/master/
 Repository: https://github.com/sysce/tomp
 
 Website: https://sys32.dev/
+
+## System32 Sting
+
+Developer: [SystemYA](https://github.com/System32-Dev)
+
+Implements: [TOMP Model](https://github.com/tomphttp/specifications/blob/master/ProxyModel.md)
+
+Repository: https://github.com/novarepo/Sting/
+
+Website: https://stingweb.wtf/
