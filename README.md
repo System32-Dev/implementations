@@ -31,9 +31,9 @@ Repository: https://github.com/sysce/tomp
 
 Website: https://sys32.dev/
 
-## System32 Sting
+## Sting
 
-Developer: [SystemYA](https://github.com/System32-Dev)
+Developer: [System32](https://github.com/System32-Dev)
 
 Implements: [TOMP Model](https://github.com/tomphttp/specifications/blob/master/ProxyModel.md)
 
